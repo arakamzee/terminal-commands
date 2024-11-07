@@ -41,5 +41,8 @@ adds a remote repository to your local Git repository.
 ### git push -u
 uploads local repository content to a remote repository.
 
+### git clone 
+puts a remote repo to a local repo.
+
 
 
